@@ -3,3 +3,6 @@ node_modules/
 
 #Ignoring MacOS .DS_Store
 .DS_Store
+
+#Igonoring env file
+.env
