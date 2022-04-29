@@ -72,6 +72,8 @@ DELETE `api/tags/:id`
 DELETE `api/categories/:id`
 
 *NOTE: For POST, PUT and DELETE methods when response returns 1 the request was applied successfully and when retunrs 0 there was a problem with the request.*
+
+[Walkthrough Video](https://watch.screencastify.com/v/D0I6NxttWoQheEZzbhDL)
     
 <a name="license"></a>
 ## License
